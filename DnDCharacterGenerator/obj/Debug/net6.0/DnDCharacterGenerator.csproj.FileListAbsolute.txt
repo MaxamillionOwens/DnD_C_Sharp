@@ -1,0 +1,15 @@
+/Users/maxamillionowens/Documents/GitHub/DnD_C_Sharp/DnDCharacterGenerator/bin/Debug/net6.0/DnDCharacterGenerator
+/Users/maxamillionowens/Documents/GitHub/DnD_C_Sharp/DnDCharacterGenerator/bin/Debug/net6.0/DnDCharacterGenerator.deps.json
+/Users/maxamillionowens/Documents/GitHub/DnD_C_Sharp/DnDCharacterGenerator/bin/Debug/net6.0/DnDCharacterGenerator.runtimeconfig.json
+/Users/maxamillionowens/Documents/GitHub/DnD_C_Sharp/DnDCharacterGenerator/bin/Debug/net6.0/DnDCharacterGenerator.dll
+/Users/maxamillionowens/Documents/GitHub/DnD_C_Sharp/DnDCharacterGenerator/bin/Debug/net6.0/DnDCharacterGenerator.pdb
+/Users/maxamillionowens/Documents/GitHub/DnD_C_Sharp/DnDCharacterGenerator/obj/Debug/net6.0/DnDCharacterGenerator.csproj.AssemblyReference.cache
+/Users/maxamillionowens/Documents/GitHub/DnD_C_Sharp/DnDCharacterGenerator/obj/Debug/net6.0/DnDCharacterGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxamillionowens/Documents/GitHub/DnD_C_Sharp/DnDCharacterGenerator/obj/Debug/net6.0/DnDCharacterGenerator.AssemblyInfoInputs.cache
+/Users/maxamillionowens/Documents/GitHub/DnD_C_Sharp/DnDCharacterGenerator/obj/Debug/net6.0/DnDCharacterGenerator.AssemblyInfo.cs
+/Users/maxamillionowens/Documents/GitHub/DnD_C_Sharp/DnDCharacterGenerator/obj/Debug/net6.0/DnDCharacterGenerator.csproj.CoreCompileInputs.cache
+/Users/maxamillionowens/Documents/GitHub/DnD_C_Sharp/DnDCharacterGenerator/obj/Debug/net6.0/DnDCharacterGenerator.dll
+/Users/maxamillionowens/Documents/GitHub/DnD_C_Sharp/DnDCharacterGenerator/obj/Debug/net6.0/refint/DnDCharacterGenerator.dll
+/Users/maxamillionowens/Documents/GitHub/DnD_C_Sharp/DnDCharacterGenerator/obj/Debug/net6.0/DnDCharacterGenerator.pdb
+/Users/maxamillionowens/Documents/GitHub/DnD_C_Sharp/DnDCharacterGenerator/obj/Debug/net6.0/DnDCharacterGenerator.genruntimeconfig.cache
+/Users/maxamillionowens/Documents/GitHub/DnD_C_Sharp/DnDCharacterGenerator/obj/Debug/net6.0/ref/DnDCharacterGenerator.dll
