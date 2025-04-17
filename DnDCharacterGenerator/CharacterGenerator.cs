@@ -105,12 +105,12 @@ static class CharacterGenerator
         character.Gender = gender;
         character.Class = characterClass;
         character.Level = GetRandomInt(1, 5);
-        character.Strength = GetRandomInt(2, 18);
-        character.Dexterity = GetRandomInt(2, 18);
-        character.Constitution = GetRandomInt(2, 18);
-        character.Intelligence = GetRandomInt(2, 18);
-        character.Wisdom = GetRandomInt(2, 18);
-        character.Charisma = GetRandomInt(2, 18);
+        character.Strength = GetRandomInt(6, 18);
+        character.Dexterity = GetRandomInt(6, 18);
+        character.Constitution = GetRandomInt(6, 18);
+        character.Intelligence = GetRandomInt(6, 18);
+        character.Wisdom = GetRandomInt(6, 18);
+        character.Charisma = GetRandomInt(6, 18);
         character.Skills = GetSkillsForClass(characterClass);
         character.Feats = GetFeatsForRace(race);
         return character;
